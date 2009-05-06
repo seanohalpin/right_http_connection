@@ -1,4 +1,5 @@
 # -*- encoding: utf-8 -*-
+# copied from http://github.com/kerryb/right_http_connection/tree
 
 Gem::Specification.new do |s|
   s.name = %q{right_http_connection}
